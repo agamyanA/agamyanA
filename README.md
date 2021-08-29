@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">...and I need a job. So I decide to learn web development. And got passionate about it really fast!</h3>
 
 - I’m recently finished working on [FavsBase](https://github.com/agamyanA/FavsBase)
 
-- I’m currently learning **TypeScript, Angular and RxJS**
+- I’m currently working on [boardless](https://github.com/agamyanA/boardless)
 
 - How to reach me **agamyan@outlook.com**
 
