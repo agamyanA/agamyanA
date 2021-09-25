@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
-- I’m recently finished working on [FavsBase](https://github.com/agamyanA/FavsBase)
+- I’m recently finished working on [FavsBase](https://github.com/alex-aghamyan/FavsBase)
 
-- I’m currently working on [boardless](https://github.com/agamyanA/boardless)
+- I’m currently working on [boardless](https://github.com/alex-aghamyan/boardless)
 
-- How to reach me **agamyan@outlook.com**
+- How to reach me **alex.aghamyan.work@gmail.com
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
