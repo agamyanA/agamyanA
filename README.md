@@ -2,10 +2,9 @@
 
 - I’m recently finished working on [FavsBase](https://github.com/alex-aghamyan/FavsBase)
 
-- I’m currently working on [boardless](https://github.com/alex-aghamyan/boardless)
+- I’m currently working on [wdgtlist](https://github.com/alex-aghamyan/wdgtlist)
 
-- How to reach me **alex.aghamyan.work@gmail.com
-**
+- How to reach me: **alex.aghamyan.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
