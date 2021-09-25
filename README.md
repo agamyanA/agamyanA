@@ -2,7 +2,7 @@
 
 - I’m recently finished working on [FavsBase](https://github.com/alex-aghamyan/FavsBase)
 
-- I’m currently working on [wdgtlist](https://github.com/alex-aghamyan/wdgtlist)
+- I’m currently working on [wdgtwrap](https://github.com/alex-aghamyan/wdgtwrap)
 
 - How to reach me: **alex.aghamyan.work@gmail.com**
 
