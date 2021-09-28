@@ -25,6 +25,6 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamyana&show_icons=true&locale=en&layout=compact" alt="agamyana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-aghamyan&show_icons=true&locale=en&layout=compact" alt="agamyana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamyana&show_icons=true&locale=en" alt="agamyana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-aghamyan&show_icons=true&locale=en" alt="agamyana" /></p>
