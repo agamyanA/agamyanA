@@ -1,30 +1,49 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">😎 Hey! Nice to see you.</h1>
 
-- I’m recently finished working on [FavsBase](https://github.com/alex-aghamyan/FavsBase)
-
-- I’m currently working on [wdgtwrap](https://github.com/alex-aghamyan/wdgtwrap)
-
-- How to reach me: **alex.aghamyan.work@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alex-aghamyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-aghamyan" height="30" width="40" /></a>
+<p>
+ Welcome to my profile! </br> I'm Alex, Frontend developer from 
+ <img src="https://cdn-icons-png.flaticon.com/512/5922/5922033.png" width="13"/>
+ <b>Kapan, Armenia</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
- <a href="https://rxjs.dev" target="_blank"> <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" alt="rxjs" width="40" height="40"/> </a>
- <a href="https://ngrx.io" target="_blank"> <img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- </p>
+## Contact me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-aghamyan&show_icons=true&locale=en&layout=compact" alt="agamyana" /></p>
+<a href="mailto:alex.aghamyan.work@gmail.com" target="_blank">
+ <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alex-aghamyan" target="_blank">
+ <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-aghamyan&show_icons=true&locale=en" alt="agamyana" /></p>
+## Tech I use:
+
+<p>
+ <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+ <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+ <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+ </br>
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white" />
+ <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+ <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+ <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-ba2bd2?style=flat-square&logo=redux&logoColor=white" />
+ </br>
+ <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+ <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+ </br>
+ <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+ <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" />
+ </br>
+ <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
+ <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+ <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+ 
+ ## Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-aghamyan&show_icons=true&locale=en&layout=compact&theme=prussian)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alex-aghamyan&theme=prussian) 
