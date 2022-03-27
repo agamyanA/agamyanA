@@ -1,7 +1,7 @@
 <h1 align="center">😎 Hey! Nice to see you.</h1>
 
 <p>
- Welcome to my profile! </br> I'm Alex, Frontend developer from 
+ Welcome to my profile! </br> I'm Alex, a Front-End Developer based in 
  <img src="https://cdn-icons-png.flaticon.com/512/5922/5922033.png" width="13"/>
  <b>Kapan, Armenia</b>.
 </p>
